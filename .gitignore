@@ -1,0 +1,10 @@
+#Editor
+.vscode/
+.idea/
+
+# target files
+*.out
+*.o
+*.exe
+build/
+
